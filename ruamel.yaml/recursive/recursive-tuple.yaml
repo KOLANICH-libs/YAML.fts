@@ -1,0 +1,4 @@
+&id001 !!python/tuple
+- &id002
+  - *id001
+- - *id002

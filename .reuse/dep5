@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: yaml.fts
+
+Files: ruamel.yaml/* ReadMe.md
+Copyright: 2006-2016 Kirill Simonov
+Copyright: 2017-2021 Ingy döt Net
+Copyright: 2014-2022 Anthon van der Neut, Ruamel bvba
+License: MIT
+
+Files: .editorconfig .gitmodules .gitignore .github ruamelYamlDatasetConvertor.py **/**.ftsMeta **/meta.json */test.py test.py regenerateRuamel.sh
+Copyright: 2022 KOLANICH
+License: Unlicense

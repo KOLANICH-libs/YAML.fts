@@ -1,0 +1,2 @@
+É£dTime¿t2001-11-23T20:01:42ZdUserbedgWarningx)This is an error message for the log file£dTime¿t2001-11-23T20:02:31ZdUserbedgWarningx#A slightly different error message.§dDate¿t2001-11-23T20:03:17ZdUserbedeFatalvUnknown variable "bar"eStackÇ£dfilekTopClass.pydlinedcodexx = MoreObject("345\n")
+£dfilelMoreClass.pydline:dcodeifoo = bar

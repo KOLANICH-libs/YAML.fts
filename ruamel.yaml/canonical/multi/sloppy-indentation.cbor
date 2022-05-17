@@ -1,0 +1,1 @@
+Ñ°tin the block context°xindentation should be kept°wbut in the flow contextÅrit may be violatedxJthe parser does not require scalars to be indented with at least one spacexJthe parser does not require scalars to be indented with at least one space°cfoo°cbarx)quoted scalars may not adhere indentation
